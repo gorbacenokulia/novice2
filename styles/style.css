@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(99, 99, 99);
+    background-color: rgb(58, 58, 58);
     color: #ffffff;
     margin: 0;
     padding: 0;
@@ -22,12 +22,12 @@ nav {
 nav a {
     margin: 10px;
     text-decoration: none;
-    color: #333;
+    color: #ffe294;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: darkblue;
+    color: rgb(0, 0, 0);
 }
 
 .main-content {
@@ -37,7 +37,7 @@ nav a:hover {
 
 .sidebar {
     width: 25%;
-    background-color: #315e97;
+    background-color: #194c8f;
     padding: 10px;
 }
 
